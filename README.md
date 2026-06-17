@@ -19,16 +19,14 @@ Analicé un conjunto de datos de estudiantes para descubrir los factores que má
 
 [🔗 Ver notebook completo en Kaggle](https://www.kaggle.com/code/andresmartinez21/rendimiento-acad-mico/notebook)
 
-- ### Sistema de Recomendación de Películas para Netflix
+- ### Global Music Streaming Analytics (Excel Dashboard)
 
-Desarrollé un sistema de recomendación que sugiere películas similares a partir de las características de cada título, como la descripción, actores y género. Cuando el usuario selecciona una película, el modelo analiza sus atributos y le sugiere automáticamente cuatro películas relacionadas, mejorando la experiencia de descubrimiento en la plataforma.
+Desarrollé un dashboard en Excel con datos de 50,000 sesiones de streaming musical para explorar géneros, países y plataformas, con KPIs de tiempo de escucha, usuarios premium y repetición de canciones. Incluye filtros interactivos y un flujo reproducible con Power Query, tablas dinámicas y segmentadores.
 
-![Imagen del sistema de recomendación](assets/img/proyectos/image_sistema.png)
+![Demostración del dashboard](assets/img/proyectos/dashboard.gif)
 
-**Tecnologías:** R, tidyverse, knitr, magrittr, tm, lsa, Kaggle
-
-[🔗 Ver notebook completo en Kaggle](https://www.kaggle.com/code/andresmartinez21/netflix-recommendation-system)
-
+**Tecnologías:** Microsoft Excel, Power Query, Tablas dinámicas, Segmentadores, Git, GitHub, Kaggle
+[🔗 Ver repositorio en GitHub](https://github.com/gustavo21math/excel-dashboard)
 - ### Scraper y Buscador de Bases de Datos - Editorial UPTC
 
 Desarrollé una herramienta que automatiza la recolección de datos de la Editorial UPTC mediante técnicas de web scraping. El sistema extrae información relevante de libros y publicaciones, almacena los datos en una base de datos no estructurada (MongoDB) y permite a los usuarios buscar y filtrar resultados a través de una interfaz sencilla. Este proyecto facilita el acceso a información académica y bibliográfica para estudiantes e investigadores.
@@ -44,7 +42,7 @@ Desarrollé una herramienta que automatiza la recolección de datos de la Editor
 - **Lenguajes:** Python, R, SQL, MongoDB
 - **Machine Learning:** Scikit-learn, Feature-engine, TensorFlow
 - **Visualización:** Matplotlib, Seaborn, Plotly, Tableau
-- **Herramientas:** Conda, Git, GitHub, Docker
+- **Herramientas:** Excel, Conda, Git, GitHub, Docker
 
 ---
 
